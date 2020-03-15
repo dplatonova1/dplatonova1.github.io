@@ -1,5 +1,5 @@
 # praktikum
-https://github.com/dplatonova1/praktikum.git
+https://dplatonova1.github.io/
 -------------
 
 
