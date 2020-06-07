@@ -1,5 +1,5 @@
 # praktikum
-https://dplatonova1.github.io/
+https://dplatonova1.github.io/validation
 -------------
 
 
