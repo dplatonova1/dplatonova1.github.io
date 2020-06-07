@@ -1,10 +1,12 @@
 # praktikum
-https://dplatonova1.github.io/
+https://dplatonova1.github.io/validation
 -------------
 
 
 Актуальная версия проекта: v0.0.2
+
 Описание: Учебный проект по темам Git и регулярным выражениям 
+
 Технологии в проекте:
 
 - HTML
